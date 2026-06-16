@@ -5,3 +5,5 @@ __pycache__/
 data/landmarks/
 *.h5
 *.keras
+data/raw/
+models/
